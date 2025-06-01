@@ -1,0 +1,1 @@
+DbscanParams<{float}, linfa_nn::distance::L2Dist, linfa_nn::CommonNearestNeighbour>

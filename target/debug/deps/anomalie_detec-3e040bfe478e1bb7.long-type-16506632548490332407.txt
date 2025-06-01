@@ -1,0 +1,4 @@
+linfa::dataset::DatasetBase<ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, ndarray::dimension::dim::Dim<[usize; 2]>>, ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, _>>
+ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<f64>, ndarray::dimension::dim::Dim<[usize; 2]>>
+linfa::DatasetBase<ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, ndarray::dimension::dim::Dim<[usize; 2]>>, ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, _>>: std::convert::From<ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray::Dim<[usize; 2]>>>
+linfa::DatasetBase<ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, ndarray::dimension::dim::Dim<[usize; 2]>>, ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, _>>

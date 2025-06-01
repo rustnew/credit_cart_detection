@@ -1,0 +1,2 @@
+DatasetBase<ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, ndarray::dimension::dim::Dim<[usize; 2]>>, ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, _>>
+DatasetBase<ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, ndarray::dimension::dim::Dim<[usize; 2]>>, ndarray::ArrayBase<ndarray::data_repr::OwnedRepr<_>, _>>: From<ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>>
